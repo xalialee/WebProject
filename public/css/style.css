@@ -1,0 +1,27 @@
+* {
+  font-family: "proximanova";
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+h1 {
+  font-weight: bold;
+  margin: 0 0 1.3em;
+}
+
+body {
+  background: #2196f3;
+}
+
+#logo {
+  font-weight: bold;
+  background: white;
+  color: #2979ff;
+  border-radius: 40px;
+  font-family: "proxima nova soft";
+  width: 120px;
+  text-align: center;
+}
